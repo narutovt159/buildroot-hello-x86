@@ -1,0 +1,4 @@
+#!/bin/sh
+echo "Running Hello from init script"
+/usr/bin/hello
+
