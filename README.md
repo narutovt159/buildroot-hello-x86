@@ -163,6 +163,7 @@ Hello, Buildroot AutoStart!
 ---
 
 ## 📤 Structure: 
+```
 buildroot/
 ├── package/
 │   ├── hello/
@@ -171,4 +172,6 @@ buildroot/
 │   │   ├── Config.in
 │   │   └── init/
 │   │       └── hello.init
+```
+
 
