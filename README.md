@@ -155,10 +155,10 @@ Hello, Buildroot AutoStart!
 ```
 
 ---
-### Build of Advanced successfully:
+### Build of Advanced successfully at step 4:
 ![Boot Screenshot](image_output/build_Adanced_succesfully.jpg)
 ---
-### OUTPUT of Advanced PART:
+### OUTPUT of Advanced PART at step 5:
 ![Boot Screenshot](image_output/output_Advanced.jpg)
 
 ---
