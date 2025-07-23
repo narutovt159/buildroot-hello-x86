@@ -6,7 +6,7 @@ This project demonstrates how to build a minimal x86_64 Linux system using Build
 
 ---
 
-## 🔧 Basic Part
+## 🔧 I) Basic Part
 
 ### 1. Clone Buildroot
 
@@ -53,7 +53,11 @@ buildroot login: root
 
 ---
 
-## 🚀 Advanced Part
+### OUTPUT of BASIC PART:
+![Boot Screenshot](image_output/Basic_part.jpg)
+
+---
+## 🚀 II) Advanced Part
 
 ### 1. Create Hello World Package
 
@@ -166,6 +170,7 @@ Hello, Buildroot AutoStart!
 ```
 buildroot/
 ├── package/
+│   ├── Config.in
 │   ├── hello/
 │   │   ├── hello.c
 │   │   ├── hello.mk
