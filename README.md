@@ -1,4 +1,4 @@
-# Interview output of PHAN QUANG KHAI:
+Interview output of PHAN QUANG KHAI:
 
 # Buildroot x86_64 Linux System with Auto-starting Hello World
 
