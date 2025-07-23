@@ -155,7 +155,13 @@ Hello, Buildroot AutoStart!
 ```
 
 ---
+### Build of Advanced successfully:
+![Boot Screenshot](image_output/build_Adanced_succesfully.jpg)
+---
+### OUTPUT of Advanced PART:
+![Boot Screenshot](image_output/output_Advanced.jpg)
 
+---
 ## ✅ Summary
 
 | Feature                            | Status |
